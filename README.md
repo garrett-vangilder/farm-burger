@@ -9,3 +9,11 @@ To install this theme you need to complete the following steps.
 
 ##### WARNING
 Currently you will need to replace all fonts as the CDN that is serving these fonts through a secure mechanism 
+
+
+##### Screenshots
+
+![screen-shot](/wp-content/themes/farm-burger/screenshots/screen-shot5.png)
+![screen-shot](/wp-content/themes/farm-burger/screenshots/screen-shot6.png)
+![screen-shot](/wp-content/themes/farm-burger/screenshots/screen-shot1.png)
+![screen-shot](/wp-content/themes/farm-burger/screenshots/screen-shot2.png)
