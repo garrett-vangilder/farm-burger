@@ -142,6 +142,16 @@ button.navbar-toggle {
   background: #f26522;
 }
 
+@media(max-width : 991px) { 
+  .navbar li,
+  .navbar li a {
+    /*margin: 0;*/
+    margin-left: 0;
+    margin-right: 0;
+    padding-top: 20px;
+  }
+}
+
 @media(max-width : 768px) { 
   .navbar-nav li:last-child a {
     margin: 0;
