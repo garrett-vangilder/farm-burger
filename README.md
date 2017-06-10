@@ -13,7 +13,7 @@ Currently you will need to replace all fonts as the CDN that is serving these fo
 
 ##### Screenshots
 
-![screen-shot](/wp-content/themes/farm-burger/screenshots/screen-shot5.png)
-![screen-shot](/wp-content/themes/farm-burger/screenshots/screen-shot6.png)
-![screen-shot](/wp-content/themes/farm-burger/screenshots/screen-shot1.png)
-![screen-shot](/wp-content/themes/farm-burger/screenshots/screen-shot2.png)
+![screen-shot](screenshots/screen-shot5.png)
+![screen-shot](screenshots/screen-shot6.png)
+![screen-shot](screenshots/screen-shot1.png)
+![screen-shot](screenshots/screen-shot2.png)
